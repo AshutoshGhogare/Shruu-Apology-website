@@ -1,0 +1,2 @@
+function growFlower(){document.getElementById('garden').innerHTML+='🌷';}
+function unlock(){const s=document.getElementById('secret');if(document.getElementById('code').value==='26/12/2005'){s.innerHTML=`<h3>Dear Shruu ❤️</h3><p>To the most beautiful elegant smart loving girl I have ever met. I really want to watch you successful in life and completing all of your dreams. I will give my 100% to fulfill all your dreams and make you feel special. 🌷✨🥹🤗</p>`;}else alert('Wrong birthday 😜');}
